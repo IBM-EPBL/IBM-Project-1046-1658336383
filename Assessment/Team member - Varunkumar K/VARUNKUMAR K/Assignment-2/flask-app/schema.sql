@@ -10,7 +10,7 @@ CREATE TABLE users (
 
 INSERT INTO users (username, password, name, email) VALUES (
     "nmm",
-    "nmm768",
-    "musthapa",
+    "nmm123",
+    "varunvk",
     "nmm123@gmail.com"
 );
