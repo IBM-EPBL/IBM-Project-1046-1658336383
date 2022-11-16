@@ -1,6 +1,13 @@
 # IBM-Project-1046-1658336383
 News Tracker Application
-\nTechnology : cloud app development
+
+
+
+
+Technology : cloud app development
+
+
+
 Team ID : PNT2022TMID03337
 Team Size : 4
 Team Leader : Prem chand T
